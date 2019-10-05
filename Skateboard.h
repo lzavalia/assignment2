@@ -14,3 +14,5 @@ public:
    virtual double mileageEstimate(double time);
    virtual string toString();
 };
+
+#endif
