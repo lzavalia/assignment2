@@ -1,0 +1,50 @@
+A)
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        docs/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+B)
+there have been eight git commits so far, the command for this is "git log"
+
+C)
+.gitignore was last updated on wednesday september 25th 2019 at 18:13:30
+this information was determined with "git log --follow .gitignore"
+
+D)
+git branches allow work to be done in parallel
+git branches keep a clean record making bugs easier to fix
+
+E)
+git log displays the version history for the branch while git status
+lists all modified files
+
+F)
+git log -- Vehicle.h
+
+G)
+git log --grep=file
+
+H)
+Inheritance is a relation between classes in which a child class is a 
+parent class with extra features
+Polymorphism is when one class may be treated as another
+Encapsulation refers to the ability to hide data in a "private"
+member field in a class
+
+I)
+Integration Manager workflow has each developer pushes to a public repository
+specific to them and then the integration manager pushes that to the central
+repository while in Dictator and Lieutenants workflow there are several
+"lieutenant repositories" that a developer will be assigned to, the
+lieutenants then push to the dictator who then pushes to the central repo.
+
+J)
+For a team of 100 developers the dictator and lieutenant workflow would allow
+the workflow to proceed in an organized fashion in which developers can
+concentrate on more specific problems while in a centralized workflow there
+would be more chaos
